@@ -5,6 +5,7 @@ description: 'This resource covers: Route Guidance; User Equilibrium; System Opt
   Decomposition; Constrained Shortest Paths; Computational Results.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/db7a7133b6d2ed923878c5c4037c752c_lec24_2_04_studen.pdf
 file_type: application/pdf
+parent_uid: 61dde9ad-a781-ffd9-aab4-f0b6082e0934
 resourcetype: Document
 title: lec24_2_04_studen.pdf
 uid: db7a7133-b6d2-ed92-3878-c5c4037c752c

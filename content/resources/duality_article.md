@@ -8,6 +8,7 @@ description: 'This resource covers: The Practical Importance of Duality; Review 
   Duality in Discrete Optimization.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/3933e04aaabb56a7e3e6400736c3fbd7_duality_article.pdf
 file_type: application/pdf
+parent_uid: 61dde9ad-a781-ffd9-aab4-f0b6082e0934
 resourcetype: Document
 title: duality_article.pdf
 uid: 3933e04a-aabb-56a7-e3e6-400736c3fbd7

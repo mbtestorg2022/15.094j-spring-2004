@@ -6,6 +6,7 @@ description: 'This resource covers: A Bisection Line-Search Algorithm for 1-Dime
   Lagrange Dual Problem.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/e73f03fdebd77b17decb4744b64bbdcf_simple_route_art.pdf
 file_type: application/pdf
+parent_uid: 61dde9ad-a781-ffd9-aab4-f0b6082e0934
 resourcetype: Document
 title: simple_route_art.pdf
 uid: e73f03fd-ebd7-7b17-decb-4744b64bbdcf

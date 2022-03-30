@@ -8,6 +8,7 @@ description: 'This resource covers: Nonlinear Optimization; Portfolio Optimizati
   Optimality Conditions for Nonlinear Optimization; A Few Concluding Remarks.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/8e956fb2410e9851da8a41a14897c8b1_convex_opt_art.pdf
 file_type: application/pdf
+parent_uid: 61dde9ad-a781-ffd9-aab4-f0b6082e0934
 resourcetype: Document
 title: convex_opt_art.pdf
 uid: 8e956fb2-410e-9851-da8a-41a14897c8b1

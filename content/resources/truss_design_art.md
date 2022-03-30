@@ -7,6 +7,7 @@ description: 'This course covers: Physical Laws of a Truss System, The Truss Des
   Design Problem'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/f7bc9c1f6992b26b82433bf5a1889005_truss_design_art.pdf
 file_type: application/pdf
+parent_uid: 61dde9ad-a781-ffd9-aab4-f0b6082e0934
 resourcetype: Document
 title: truss_design_art.pdf
 uid: f7bc9c1f-6992-b26b-8243-3bf5a1889005

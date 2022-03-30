@@ -6,6 +6,7 @@ description: 'This resource gives an overview on: Pattern Classification, Linear
   without strict Linear Separation.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/38946f08de8c055e978fbfe701564b7b_13pattern_qp_art.pdf
 file_type: application/pdf
+parent_uid: 61dde9ad-a781-ffd9-aab4-f0b6082e0934
 resourcetype: Document
 title: 13pattern_qp_art.pdf
 uid: 38946f08-de8c-055e-978f-bfe701564b7b
